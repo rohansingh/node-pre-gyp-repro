@@ -1,0 +1,12 @@
+{
+  "name": "node-pre-gyp-repro",
+  "version": "1.0.0",
+  "description": "repro for https://github.com/mapbox/node-pre-gyp/issues/433",
+  "repository": "https://github.com/rohansingh/node-pre-gyp-repro",
+  "author": "Rohan Singh <rohan@washington.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^3.0.0",
+    "request": "^2.87.0"
+  }
+}
